@@ -242,6 +242,6 @@ Every calculation performed in the session is logged with a timestamp. At any po
 
 ---
 
-## License / Licença
+## License
 
 Distributed for educational purposes. 
